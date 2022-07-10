@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "57803cce7bea8ebe",
+    "type": "split",
+    "children": [
+      {
+        "id": "b257df5994d76f3a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Prova.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e5b23d3650cbfb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "90ed4ba5b1c323fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad3554eeb5528d43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ed813f1732fd2d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59bb05ef9a9cbcaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "657d1e4253d38376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2bb7c3f37663b7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Prova.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "b257df5994d76f3a",
+  "lastOpenFiles": [
+    "Prova.md",
+    "test.md"
+  ]
+}
